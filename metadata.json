@@ -1,0 +1,7 @@
+{
+  "name": "Easy Transport CI",
+  "description": "Plateforme ivoirienne de réservation de cars, suivi GPS en temps réel, paiement CinetPay Mobile Money et assistant vocal IA multilingue",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
